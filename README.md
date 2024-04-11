@@ -1,5 +1,8 @@
 # Harsh Kumar
 
+
+## screenshots
+
 ![Android Studio ](<Screenshot 2024-04-11 at 10.17.01 AM.jpg>)
 ![xcode](<Screenshot 2024-04-11 at 10.28.43 AM.jpg>)
 ![windows](<Screenshot 2024-04-11 at 10.22.28 AM.jpg>)
@@ -26,8 +29,6 @@ return "obese";
 
 console.log(`The calculated BMI of Adesh Shah is ${calculateBMI(90, 1.91)}`);
 console.log(`He falls under ${interpretBMI(BMI)} category`);```
-
-screnshots
 
 
 ````
